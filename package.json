@@ -18,7 +18,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "harmonyhubjs-client": "^1.1.6",
-    "harmonyhubjs-discover": "git://github.com/Tug/harmonyhubjs-discover",
+    "harmonyhubjs-discover": "git://github.com/Tug/harmonyhubjs-discover.git#master",
     "inherits": "^2.0.1",
     "queue": "^3.1.0"
   }
